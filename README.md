@@ -1,2 +1,4 @@
-# Advanced-Programming-FINAL
-Final project NN to detect a facial expression
+# Advanced-Programming-FINAL 
+Final project NN to detect a facial expression ZAYNULLINA AZIZA
+
+
